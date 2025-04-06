@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @key4127, a.k.a. JingHan Xu, a student in Shanghai Jiaotong University.
-- 👀 I’m interested in Java, Web Dev
-- 🌱 I’m currently learning Microservices
+- 👀 I’m interested in Java, Web Dev, Microservices
+- 🌱 I’m currently learning Proxyless Service Mesh
 - 📫 How to reach me: keyist_07@sjtu.edu.cn
 
 <!--
